@@ -1,1 +1,1 @@
-##All SQL Projects Done in BigQuery
+All SQL Projects Done in BigQuery
